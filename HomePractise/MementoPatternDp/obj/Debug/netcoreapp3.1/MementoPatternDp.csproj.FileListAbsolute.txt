@@ -1,0 +1,4 @@
+F:\Visual Studio\HomePractise\MementoPatternDp\bin\Debug\netcoreapp3.1\MementoPatternDp.exe
+F:\Visual Studio\HomePractise\MementoPatternDp\obj\Debug\netcoreapp3.1\MementoPatternDp.csprojAssemblyReference.cache
+F:\Visual Studio\HomePractise\MementoPatternDp\obj\Debug\netcoreapp3.1\MementoPatternDp.AssemblyInfoInputs.cache
+F:\Visual Studio\HomePractise\MementoPatternDp\obj\Debug\netcoreapp3.1\MementoPatternDp.AssemblyInfo.cs

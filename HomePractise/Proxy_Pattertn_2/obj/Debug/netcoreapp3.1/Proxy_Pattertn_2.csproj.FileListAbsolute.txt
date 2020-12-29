@@ -1,0 +1,13 @@
+F:\Visual Studio\HomePractise\Proxy_Pattertn_2\bin\Debug\netcoreapp3.1\Proxy_Pattertn_2.exe
+F:\Visual Studio\HomePractise\Proxy_Pattertn_2\bin\Debug\netcoreapp3.1\Proxy_Pattertn_2.deps.json
+F:\Visual Studio\HomePractise\Proxy_Pattertn_2\bin\Debug\netcoreapp3.1\Proxy_Pattertn_2.runtimeconfig.json
+F:\Visual Studio\HomePractise\Proxy_Pattertn_2\bin\Debug\netcoreapp3.1\Proxy_Pattertn_2.runtimeconfig.dev.json
+F:\Visual Studio\HomePractise\Proxy_Pattertn_2\bin\Debug\netcoreapp3.1\Proxy_Pattertn_2.dll
+F:\Visual Studio\HomePractise\Proxy_Pattertn_2\bin\Debug\netcoreapp3.1\Proxy_Pattertn_2.pdb
+F:\Visual Studio\HomePractise\Proxy_Pattertn_2\obj\Debug\netcoreapp3.1\Proxy_Pattertn_2.csprojAssemblyReference.cache
+F:\Visual Studio\HomePractise\Proxy_Pattertn_2\obj\Debug\netcoreapp3.1\Proxy_Pattertn_2.csproj.CoreCompileInputs.cache
+F:\Visual Studio\HomePractise\Proxy_Pattertn_2\obj\Debug\netcoreapp3.1\Proxy_Pattertn_2.AssemblyInfoInputs.cache
+F:\Visual Studio\HomePractise\Proxy_Pattertn_2\obj\Debug\netcoreapp3.1\Proxy_Pattertn_2.AssemblyInfo.cs
+F:\Visual Studio\HomePractise\Proxy_Pattertn_2\obj\Debug\netcoreapp3.1\Proxy_Pattertn_2.dll
+F:\Visual Studio\HomePractise\Proxy_Pattertn_2\obj\Debug\netcoreapp3.1\Proxy_Pattertn_2.pdb
+F:\Visual Studio\HomePractise\Proxy_Pattertn_2\obj\Debug\netcoreapp3.1\Proxy_Pattertn_2.genruntimeconfig.cache

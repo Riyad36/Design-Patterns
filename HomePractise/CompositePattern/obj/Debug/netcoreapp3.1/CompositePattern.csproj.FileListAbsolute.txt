@@ -1,0 +1,13 @@
+F:\Visual Studio\HomePractise\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.exe
+F:\Visual Studio\HomePractise\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.deps.json
+F:\Visual Studio\HomePractise\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.json
+F:\Visual Studio\HomePractise\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.dev.json
+F:\Visual Studio\HomePractise\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.dll
+F:\Visual Studio\HomePractise\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.pdb
+F:\Visual Studio\HomePractise\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.csprojAssemblyReference.cache
+F:\Visual Studio\HomePractise\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.csproj.CoreCompileInputs.cache
+F:\Visual Studio\HomePractise\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfoInputs.cache
+F:\Visual Studio\HomePractise\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfo.cs
+F:\Visual Studio\HomePractise\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.dll
+F:\Visual Studio\HomePractise\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.pdb
+F:\Visual Studio\HomePractise\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.genruntimeconfig.cache

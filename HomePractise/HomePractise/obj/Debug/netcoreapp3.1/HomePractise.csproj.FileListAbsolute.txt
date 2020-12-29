@@ -1,0 +1,11 @@
+F:\Visual Studio\HomePractise\HomePractise\bin\Debug\netcoreapp3.1\HomePractise.exe
+F:\Visual Studio\HomePractise\HomePractise\bin\Debug\netcoreapp3.1\HomePractise.deps.json
+F:\Visual Studio\HomePractise\HomePractise\bin\Debug\netcoreapp3.1\HomePractise.runtimeconfig.json
+F:\Visual Studio\HomePractise\HomePractise\bin\Debug\netcoreapp3.1\HomePractise.runtimeconfig.dev.json
+F:\Visual Studio\HomePractise\HomePractise\bin\Debug\netcoreapp3.1\HomePractise.dll
+F:\Visual Studio\HomePractise\HomePractise\bin\Debug\netcoreapp3.1\HomePractise.pdb
+F:\Visual Studio\HomePractise\HomePractise\obj\Debug\netcoreapp3.1\HomePractise.csprojAssemblyReference.cache
+F:\Visual Studio\HomePractise\HomePractise\obj\Debug\netcoreapp3.1\HomePractise.AssemblyInfoInputs.cache
+F:\Visual Studio\HomePractise\HomePractise\obj\Debug\netcoreapp3.1\HomePractise.AssemblyInfo.cs
+F:\Visual Studio\HomePractise\HomePractise\obj\Debug\netcoreapp3.1\HomePractise.dll
+F:\Visual Studio\HomePractise\HomePractise\obj\Debug\netcoreapp3.1\HomePractise.pdb

@@ -1,0 +1,13 @@
+F:\Visual Studio\HomePractise\Mediator_Pattern\obj\Debug\netcoreapp3.1\Proxy_Pattern.csprojAssemblyReference.cache
+F:\Visual Studio\HomePractise\Mediator_Pattern\obj\Debug\netcoreapp3.1\Proxy_Pattern.csproj.CoreCompileInputs.cache
+F:\Visual Studio\HomePractise\Mediator_Pattern\obj\Debug\netcoreapp3.1\Proxy_Pattern.AssemblyInfoInputs.cache
+F:\Visual Studio\HomePractise\Mediator_Pattern\obj\Debug\netcoreapp3.1\Proxy_Pattern.AssemblyInfo.cs
+F:\Visual Studio\HomePractise\Mediator_Pattern\bin\Debug\netcoreapp3.1\Proxy_Pattern.exe
+F:\Visual Studio\HomePractise\Mediator_Pattern\bin\Debug\netcoreapp3.1\Proxy_Pattern.deps.json
+F:\Visual Studio\HomePractise\Mediator_Pattern\bin\Debug\netcoreapp3.1\Proxy_Pattern.runtimeconfig.json
+F:\Visual Studio\HomePractise\Mediator_Pattern\bin\Debug\netcoreapp3.1\Proxy_Pattern.runtimeconfig.dev.json
+F:\Visual Studio\HomePractise\Mediator_Pattern\bin\Debug\netcoreapp3.1\Proxy_Pattern.dll
+F:\Visual Studio\HomePractise\Mediator_Pattern\bin\Debug\netcoreapp3.1\Proxy_Pattern.pdb
+F:\Visual Studio\HomePractise\Mediator_Pattern\obj\Debug\netcoreapp3.1\Proxy_Pattern.dll
+F:\Visual Studio\HomePractise\Mediator_Pattern\obj\Debug\netcoreapp3.1\Proxy_Pattern.pdb
+F:\Visual Studio\HomePractise\Mediator_Pattern\obj\Debug\netcoreapp3.1\Proxy_Pattern.genruntimeconfig.cache
